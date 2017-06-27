@@ -15,4 +15,5 @@ mkmf.log
 
 .env
 .ruby-version
+.idea/*
 vendor/bundle
